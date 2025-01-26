@@ -117,13 +117,3 @@ graph TD
 
 ---
 
-## Contributing
-Feel free to fork this repository and make contributions. Create a pull request with your changes for review.
-
----
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
