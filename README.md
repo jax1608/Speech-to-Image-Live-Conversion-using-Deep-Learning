@@ -65,8 +65,8 @@ graph TD
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AabidMK/Speech-to-Image-Live-Conversion-using-Deep-Learning_Infosys_Internship_Oct2024.git
-   cd Speech-to-Image-Live-Conversion-using-Deep-Learning_Infosys_Internship_Oct2024
+   git clone https://github.com/jax1608/Speech-to-image.git
+   cd Speech-to-image
 
 
 2. **Create a virtual environment (optional but recommended):**
@@ -86,7 +86,7 @@ graph TD
 
 1. **Start the Streamlit application:**
    ```bash
-   streamlit run speech_to_image.py
+   streamlit run Fine_Tuned_Sentiment.py
    ```
 
 2. **Interact with the app:**
