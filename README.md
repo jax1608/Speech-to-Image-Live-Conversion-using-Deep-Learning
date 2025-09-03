@@ -1,4 +1,4 @@
-# Speech-to-Image-Live-Conversion-using-Deep-Learning_Infosys_Internship_Oct2024
+# Speech-to-Image-Live-Conversion-using-Deep-Learning
 
 The objective of this project is to develop a deep learning model that can convert spoken descriptions into corresponding images in real-time.
 This project is a **Speech-to-Image Generator** that takes audio input, transcribes it using a Whisper model, analyzes the sentiment of the transcription, and generates an image using Stable Diffusion. The application is built using Python and Streamlit.
